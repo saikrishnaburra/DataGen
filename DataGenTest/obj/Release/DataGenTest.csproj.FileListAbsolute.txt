@@ -1,0 +1,17 @@
+D:\TFS\Core Dev\o9.Platform\DataGen\DataGenTest\bin\Release\resources\walmartDeep.xml
+D:\TFS\Core Dev\o9.Platform\DataGen\DataGenTest\bin\Release\resources\walmartDeep.ps1
+D:\TFS\Core Dev\o9.Platform\DataGen\DataGenTest\bin\Release\resources\walmart1000.xml
+D:\TFS\Core Dev\o9.Platform\DataGen\DataGenTest\bin\Release\resources\walmart1000.ps1
+D:\TFS\Core Dev\o9.Platform\DataGen\DataGenTest\bin\Release\DataGenTest.dll
+D:\TFS\Core Dev\o9.Platform\DataGen\DataGenTest\bin\Release\DataGenTest.pdb
+D:\TFS\Core Dev\o9.Platform\DataGen\DataGenTest\bin\Release\DataGen.exe
+D:\TFS\Core Dev\o9.Platform\DataGen\DataGenTest\bin\Release\Microsoft.UnitTestFramework.Extensions.dll
+D:\TFS\Core Dev\o9.Platform\DataGen\DataGenTest\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\TFS\Core Dev\o9.Platform\DataGen\DataGenTest\bin\Release\System.Management.Automation.dll
+D:\TFS\Core Dev\o9.Platform\DataGen\DataGenTest\bin\Release\DataGen.pdb
+D:\TFS\Core Dev\o9.Platform\DataGen\DataGenTest\bin\Release\DataGen.exe.config
+D:\TFS\Core Dev\o9.Platform\DataGen\DataGenTest\bin\Release\Microsoft.UnitTestFramework.Extensions.xml
+D:\TFS\Core Dev\o9.Platform\DataGen\DataGenTest\obj\Release\DataGenTest.csprojResolveAssemblyReference.cache
+D:\TFS\Core Dev\o9.Platform\DataGen\DataGenTest\obj\Release\DataGenTest.csproj.CoreCompileInputs.cache
+D:\TFS\Core Dev\o9.Platform\DataGen\DataGenTest\obj\Release\DataGenTest.dll
+D:\TFS\Core Dev\o9.Platform\DataGen\DataGenTest\obj\Release\DataGenTest.pdb

@@ -1,0 +1,10 @@
+D:\TFS\Core Dev\o9.Platform\DataGen\DataGen\bin\Release\resources\walmartDeep.xml
+D:\TFS\Core Dev\o9.Platform\DataGen\DataGen\bin\Release\resources\walmartDeep.ps1
+D:\TFS\Core Dev\o9.Platform\DataGen\DataGen\bin\Release\DataGen.exe.config
+D:\TFS\Core Dev\o9.Platform\DataGen\DataGen\bin\Release\DataGen.exe
+D:\TFS\Core Dev\o9.Platform\DataGen\DataGen\bin\Release\DataGen.pdb
+D:\TFS\Core Dev\o9.Platform\DataGen\DataGen\bin\Release\System.Management.Automation.dll
+D:\TFS\Core Dev\o9.Platform\DataGen\DataGen\obj\Release\DataGen.csprojResolveAssemblyReference.cache
+D:\TFS\Core Dev\o9.Platform\DataGen\DataGen\obj\Release\DataGen.csproj.CoreCompileInputs.cache
+D:\TFS\Core Dev\o9.Platform\DataGen\DataGen\obj\Release\DataGen.exe
+D:\TFS\Core Dev\o9.Platform\DataGen\DataGen\obj\Release\DataGen.pdb
