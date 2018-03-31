@@ -1,0 +1,3 @@
+Customer.[CustomerKey],Customer.[Customer],Customer.[CustomerSubGroupKey],Customer.[Customer Sub Group],Customer.[CustomerGroupKey],Customer.[Customer Group]
+0,0,0,SubGroup-0,0,Group-0
+-1,Inventory Demand,0,SubGroup-0,0,Group-0

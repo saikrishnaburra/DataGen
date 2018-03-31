@@ -1,0 +1,8 @@
+Demand.[DemandKey],Demand.[Demand],Demand.[DemandSubGroupKey],Demand.[Demand Sub Group],Demand.[DemandGroupKey],Demand.[Demand Group]
+0,0,0,SubGroup-0,0,Group-0
+1,1,0,SubGroup-0,0,Group-0
+2,2,0,SubGroup-0,0,Group-0
+3,3,0,SubGroup-0,0,Group-0
+4,4,0,SubGroup-0,0,Group-0
+5,5,0,SubGroup-0,0,Group-0
+-1,Inventory Demand,0,SubGroup-0,0,Group-0

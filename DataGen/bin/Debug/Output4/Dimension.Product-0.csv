@@ -1,0 +1,7 @@
+Product.[ProductKey],Product.[Product],Product.[ProductSubGroupKey],Product.[Product Sub Group],Product.[ProductGroupKey],Product.[Product Group]
+0,0,0,SubGroup-0,0,Group-0
+1,1,0,SubGroup-0,0,Group-0
+2,2,0,SubGroup-0,0,Group-0
+3,3,0,SubGroup-0,0,Group-0
+-2,BOH Activity,0,SubGroup-0,0,Group-0
+-1,Expected Receipt Activity,0,SubGroup-0,0,Group-0
